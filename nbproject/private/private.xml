@@ -1,0 +1,46 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project-private xmlns="http://www.netbeans.org/ns/project-private/1">
+    <editor-bookmarks xmlns="http://www.netbeans.org/ns/editor-bookmarks/2" lastBookmarkId="1">
+        <file>
+            <url>src/java/servlets/SigninServlet.java</url>
+            <bookmark id="1">
+                <name/>
+                <line>0</line>
+                <key/>
+            </bookmark>
+        </file>
+    </editor-bookmarks>
+    <open-files xmlns="http://www.netbeans.org/ns/projectui-open-files/2">
+        <group>
+            <file>file:/C:/Users/User/Documents/NewVersion5%20(add%20filter,%20web%20pro)/Bakery-System-BOS-/web/loginAdmin.jsp</file>
+            <file>file:/C:/Users/User/Documents/NewVersion5%20(add%20filter,%20web%20pro)/Bakery-System-BOS-/src/java/controller/EditInventoryServlet.java</file>
+            <file>file:/C:/Users/User/Documents/NewVersion5%20(add%20filter,%20web%20pro)/Bakery-System-BOS-/src/java/models/TermOfUse.java</file>
+            <file>file:/C:/Users/User/Documents/NewVersion5%20(add%20filter,%20web%20pro)/Bakery-System-BOS-/web/WEB-INF/web.xml</file>
+            <file>file:/C:/Users/User/Documents/NewVersion5%20(add%20filter,%20web%20pro)/Bakery-System-BOS-/src/java/temp/GetUserServlet.java</file>
+            <file>file:/C:/Users/User/Documents/NewVersion5%20(add%20filter,%20web%20pro)/Bakery-System-BOS-/src/java/controller/ViewEachProductServlet.java</file>
+            <file>file:/C:/Users/User/Documents/NewVersion5%20(add%20filter,%20web%20pro)/Bakery-System-BOS-/web/adminIndex.jsp</file>
+            <file>file:/C:/Users/User/Documents/NewVersion5%20(add%20filter,%20web%20pro)/Bakery-System-BOS-/src/java/models/Product.java</file>
+            <file>file:/C:/Users/User/Documents/NewVersion5%20(add%20filter,%20web%20pro)/Bakery-System-BOS-/web/contactData.jsp</file>
+            <file>file:/C:/Users/User/Documents/NewVersion5%20(add%20filter,%20web%20pro)/Bakery-System-BOS-/src/java/controller/PaymentServlet.java</file>
+            <file>file:/C:/Users/User/Documents/NewVersion5%20(add%20filter,%20web%20pro)/Bakery-System-BOS-/web/editShop.jsp</file>
+            <file>file:/C:/Users/User/Documents/NewVersion5%20(add%20filter,%20web%20pro)/Bakery-System-BOS-/src/java/controller/DeleteAccountServlet.java</file>
+            <file>file:/C:/Users/User/Documents/NewVersion5%20(add%20filter,%20web%20pro)/Bakery-System-BOS-/src/java/controller/UpdateOrderStatusServlet.java</file>
+            <file>file:/C:/Users/User/Documents/NewVersion5%20(add%20filter,%20web%20pro)/Bakery-System-BOS-/web/META-INF/context.xml</file>
+            <file>file:/C:/Users/User/Documents/NewVersion5%20(add%20filter,%20web%20pro)/Bakery-System-BOS-/src/java/controller/UpdateStatusServlet.java</file>
+            <file>file:/C:/Users/User/Documents/NewVersion5%20(add%20filter,%20web%20pro)/Bakery-System-BOS-/src/java/controller/ComplaintServlet.java</file>
+            <file>file:/C:/Users/User/Documents/NewVersion5%20(add%20filter,%20web%20pro)/Bakery-System-BOS-/src/java/controller/ConfirmationServlet.java</file>
+            <file>file:/C:/Users/User/Documents/NewVersion5%20(add%20filter,%20web%20pro)/Bakery-System-BOS-/src/java/listeners/Init.java</file>
+            <file>file:/C:/Users/User/Documents/NewVersion5%20(add%20filter,%20web%20pro)/Bakery-System-BOS-/src/java/controller/SigninAdminServlet.java</file>
+            <file>file:/C:/Users/User/Documents/NewVersion5%20(add%20filter,%20web%20pro)/Bakery-System-BOS-/src/java/controller/EditProfileServlet.java</file>
+            <file>file:/C:/Users/User/Documents/NewVersion5%20(add%20filter,%20web%20pro)/Bakery-System-BOS-/src/java/controller/AddProductServlet.java</file>
+            <file>file:/C:/Users/User/Documents/NewVersion5%20(add%20filter,%20web%20pro)/Bakery-System-BOS-/web/viewShop.jsp</file>
+            <file>file:/C:/Users/User/Documents/NewVersion5%20(add%20filter,%20web%20pro)/Bakery-System-BOS-/web/viewProduct.jsp</file>
+            <file>file:/C:/Users/User/Documents/NewVersion5%20(add%20filter,%20web%20pro)/Bakery-System-BOS-/src/java/controller/ReviewServlet.java</file>
+            <file>file:/C:/Users/User/Documents/NewVersion5%20(add%20filter,%20web%20pro)/Bakery-System-BOS-/src/java/controller/UpdateShoppingBasketServlet.java</file>
+            <file>file:/C:/Users/User/Documents/NewVersion5%20(add%20filter,%20web%20pro)/Bakery-System-BOS-/src/java/controller/ViewShopServlet.java</file>
+            <file>file:/C:/Users/User/Documents/NewVersion5%20(add%20filter,%20web%20pro)/Bakery-System-BOS-/nbproject/build-impl.xml</file>
+            <file>file:/C:/Users/User/Documents/NewVersion5%20(add%20filter,%20web%20pro)/Bakery-System-BOS-/src/java/controller/SignupServlet.java</file>
+            <file>file:/C:/Users/User/Documents/NewVersion5%20(add%20filter,%20web%20pro)/Bakery-System-BOS-/src/java/controller/SearchServlet.java</file>
+        </group>
+    </open-files>
+</project-private>
